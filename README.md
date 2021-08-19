@@ -26,4 +26,5 @@ npm/yarn run build
 npm/yarn run lint
 ```
 
-### 
+### set up nodejs
+node/nodemon server
