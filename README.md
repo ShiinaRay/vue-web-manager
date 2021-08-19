@@ -30,3 +30,4 @@ npm/yarn run lint
 ```
 node/nodemon server
 ```
+cnpm if slow
