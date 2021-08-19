@@ -2,7 +2,7 @@
 Vue Web Presentation
 # 技术栈
 node（express）+vue（element ui）
-## Project setup
+## node_modules setup
 
 ```
 npm install / yarn
@@ -27,4 +27,6 @@ npm/yarn run lint
 ```
 
 ### set up nodejs
+```
 node/nodemon server
+```
