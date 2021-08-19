@@ -1,6 +1,6 @@
-# Vue
-Vue Web Presentation
-# 技术栈
+# Vue Web Presentation
+
+# technology stack
 node（express）+vue（element ui）
 ## node_modules setup
 
